@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">Demo</string>
+    <string name="app_name">Ugly Demo</string>
+    <string name="go_button_string">Go !</string>
 </resources>
